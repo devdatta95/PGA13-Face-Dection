@@ -9,11 +9,7 @@ msg if train user is identified
 ### step 2: run below to collect user data
 > python colloect_data.py
 
-> python text.py
 
-- point
-- point 
-### 
 
 
 ### step 3: Run below file to detect user
